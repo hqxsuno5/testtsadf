@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "kill_mob": {
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "function": "lootbags:on_mob_kill"
+  }
+}
