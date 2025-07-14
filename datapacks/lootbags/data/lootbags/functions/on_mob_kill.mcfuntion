@@ -1,0 +1,2 @@
+scoreboard players random @p random_number 0 99
+function lootbags:give_lootbag
